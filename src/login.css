@@ -1,0 +1,24 @@
+.div1{
+    height: 400px;
+    width: 500px;
+    border: 2px solid white;
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 480px;
+    background-color: white;
+    border-radius: 40px;
+}
+
+.img{
+    height: 100%;
+    width: 750px;
+}
+
+.form1{
+    margin-top: 50px ;
+    font-size: 15px;
+}
+
+#exampleCheck1,.form-label{
+    margin-left: 25px;
+}
